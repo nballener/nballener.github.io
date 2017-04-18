@@ -19,7 +19,14 @@ In this tutorial, I will be focusing on some of the basic the concepts as oppose
 Containers that hold different things
 Simply put, variables are storage containers you can put values you are going to use later. These values can be made up of different types of things known as data types. Variables can be used over and over again and also the values can be changed.
 
-You can think of a bucket as an example. You can start of off with an empty bucket, <code>bucket = 0</code>. Then go to the tap and put 5 litre of water in, <code>bucket = 5</code>. You go then go and empty out 3 litres of that bucket, <code>bucket = bucket - 3</code>. Finally, you display how much water you have left in the bucket, <code>print(bucket)</code>. What you get is a basic set of instructions
+You can think of a bucket as an example. You can start of off with an empty bucket, `bucket = 0`. Then go to the tap and put 5 litre of water in, `bucket = 5`. You go then go and empty out 3 litres of that bucket, `bucket = bucket - 3`. Finally, you display how much water you have left in the bucket, `print(bucket)`. What you get is a basic set of instructions
+
+```
+bucket = 0
+bucket = 5
+bucket = bucket - 3
+print(bucket)
+```
 
 # What are data types?
 Different things
