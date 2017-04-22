@@ -15,7 +15,8 @@ mine and I think I've written a "Hello, World" program in at least different
 programming language. Some times in the same programming language more than once!
 
 Then further along your studies or experiences, you learn how do to other things
-like, if conditionals, loops and functions.
+like, if conditionals, loops and functions. You may even learn how to program
+using OOP or Functionally
 
 # Story behind
 # Background about guards in coding
@@ -24,5 +25,6 @@ like, if conditionals, loops and functions.
 # Example with Guards
 # What I've learnt
 # Conclusion
+# Link to Pluralsight
 
 [1]:https://www.brainyquote.com/quotes/quotes/t/tedknight180802.html
