@@ -32,5 +32,18 @@ When you enter a role of software development, you inevitably will have to work 
 * sometimes a greater distraction
 
 ## 2. Corporate code sucks
+
+* Legacy code
+* "Procedure" prevents growth
+* "if it ain't broke, don't fix it" mentality
+* Once off isn't once off
+
 ## 3. Results are not measure by quality of code but by the amount of money made
+
+* Money makes the world go round
+* Greed
+
 ## 4. Quality is just a buzz word
+
+* Stems from the above
+* As long as boxes are ticked quality is assumed
