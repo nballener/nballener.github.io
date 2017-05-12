@@ -4,7 +4,7 @@ title:  "My Programming No Nos"
 <!--date:   2017-04-04 04:46:39 +0000-->
 categories: programming
 ---
-Quote about Guards
+Quote about No Nos
 
 # Introduction
 # Story behind
