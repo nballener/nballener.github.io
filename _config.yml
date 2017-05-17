@@ -16,7 +16,7 @@
 title: Nilo's Programming Adventures
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, my name is Nilo and I am a software developer. Here you will find my 
+  Hi, my name is Nilo and I am a software developer. Here you will find my
   thoughts about programming, life and other random things I feel like talking
   about. I hope you enjoy my blog.
 baseurl: "" # the subpath of your site, e.g. /blog

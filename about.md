@@ -8,3 +8,5 @@ My name is Nilo Ballener and I am a software developer by day and father of 2, w
 Through out high school I kept learning through school units and eventually decided to go to University to get a Bachelor of Telecommunication Engineering.
 
 At first, it was interesting, but as I went through the courses, I found that I was more fascinated in the software side, rather than the hardware. At the end of 2nd year, I made my move and changed my degree. I eventually finished, with honours, my Bachelor of Software Engineering.
+
+Still more to come!
