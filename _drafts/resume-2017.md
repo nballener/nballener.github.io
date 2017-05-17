@@ -3,6 +3,7 @@ layout: post
 title:  "Nilo Ballener - Resume"
 <!--date:   2017-04-04 04:46:39 +0000-->
 categories: programming
+permalink: /resume-2017/
 ---
 # Career Experience
 
@@ -52,16 +53,16 @@ categories: programming
 * Develop puzzle generating programs that produce different types of puzzles. Such as [Word Searches][1], [Number Searches][2] and [Number Fill In][3]
 
 ## Programming Languages
-* Perl
-* Python
-* Javascript
-* Markdown
-* HTML
+* perl - 5 star
+* python - 3 star
+* javascript - 2 star
+* markdown - 3 star
+* html - 3 star
 
 ## Data Types
-* JSON
-* XML
-* CSV
+* CSV - 5 star
+* XML - 4 star
+* JSON - 3 star
 
 ## Technology
 * Excel
