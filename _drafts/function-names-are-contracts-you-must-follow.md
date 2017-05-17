@@ -6,7 +6,7 @@ categories: programming
 ---
 # quote
 # frequency is high
-Imagine this scenario: you are hungry and go to the local shopping centre. You 
+Imagine this scenario: you are hungry and go to the local shopping centre. You
 choose the donuts and cola. Typiclly not the healthiest of options, but that's
 besides that point. You go to the cashier pay for your goodies. She asks you
 whether you like the receipt and you say yes. She prints one out and gives it
@@ -17,7 +17,7 @@ But this happens time and time again! This is what I see:
 ``` perl
 sub do_something {
     do_expected_things();
-    
+
     do_something_else();
 }
 ```

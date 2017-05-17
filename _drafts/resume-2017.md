@@ -46,9 +46,10 @@ categories: programming
   * Design
 
 # Personal - Experience
-* puzzlesbynilo.com
+* My Puzzle homepage - [puzzlesbynilo.com][4]
 * use Perl and Python as the two development languages
 * use JSON for configurations
+* Develop puzzle generating programs that produce different types of puzzles. Such as [Word Searches][1], [Number Searches][2] and [Number Fill In][3]
 
 ## Programming Languages
 * Perl
@@ -56,6 +57,8 @@ categories: programming
 * Javascript
 * Markdown
 * HTML
+
+## Data Types
 * JSON
 * XML
 * CSV
@@ -67,3 +70,8 @@ categories: programming
 * Cloud9 (c9.io)
 * Jekyll
 * Wordpress
+
+[1]: https://puzzlesbynilo.com/product-category/word-search/ "Puzzles By Nilo - Word Searches"
+[2]: https://puzzlesbynilo.com/product-category/number-search/ "Puzzles By Nilo - Number Searches"
+[3]: https://puzzlesbynilo.com/product-category/number-fill-in/ "Puzzles By Nilo - Number Fill In"
+[4]: https://puzzlesbynilo.com "Puzzles By Nilo"
