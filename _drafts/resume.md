@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Nilo Ballener - Resume"
-<!--date:   2017-04-04 04:46:39 +0000-->
 categories: programming
-permalink: /resume-2017/
+permalink: /resume/
 ---
 # Career Experience
 
