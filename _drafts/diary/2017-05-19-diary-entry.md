@@ -17,3 +17,11 @@ categories: programming, life, personal
     * Need to remove render blocking js and css
       * jquery
   * Focus is Mobile experience so will need to remove, or at least, move to footer
+  * Added a plugin - "Script to Footer" that moved scripts to footer
+    * Mobile: 75/100
+  * Enabled WP Super Cache
+    * Mobile: 65/100
+    * Odd, but it's complainging about images, so I need to fix those
+  * Disabled Jetpack (I don't use it anyway)
+    * Mobile: 64/100
+    * I think it's the images
