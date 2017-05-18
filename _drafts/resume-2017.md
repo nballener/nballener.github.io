@@ -9,11 +9,11 @@ permalink: /resume-2017/
 
 ## Computershare - *Software Developer*
 
-During a 2 year period, performed requirements gathering and analysis, contribute to the solution design and development of a print and digital communications solution. The software developed utilises a mixture of XML and CSV data. I was part of a large team of business analysts and developers.
+During a 2 year period, performed requirements gathering and analysis, contribute to the solution design and development of a print and digital communications solution. The software developed utilises a mixture of XML and CSV data. As a member of large team of business analysts and developers, we pioneered the implementation of a new communications system platform.
 
 During a second 2 year period, developed a large software communications suite that utilises a mixture of XML, CSV, and flat file data (TXT). Pioneered several new business techniques which utilised web services and SSRS reports.
 
-Introduced, developed and demonstrated an automated unit testing script that watches the current working directory and runs unit tests when it detects file saves. It has opened up a better programming standard to the larger team, with plans for national roll out.
+Introduced, developed and demonstrated an automated unit testing script that watches the current working directory and runs unit tests when it detects file saves. It has opened up a better programming standard to the larger team, with plans for national roll out. I received a Great Ideas award.
 
 ## Robert Bosch - *Student Engineer*
 
@@ -30,6 +30,8 @@ A series of puzzles books generated through software written in perl and python.
 Output PDFs are sent to a publisher, which is then distributed through Amazon and other book sellers. There are current 3 puzzles types available online at the moment: [Word Searches][1], [Number Searches][2] and [Number Fill In puzzles][3]
 
 I also share free puzzles sheets and book on my website, [puzzlesbynilo.com][4], which uses Wordpress.
+
+Further enhancements will be to use the [Wordnik][5] API or alternative to extract related words and meanings to generate crossword puzzles.
 
 ## Programming Languages
 * Perl - 5 star
@@ -57,3 +59,4 @@ I also share free puzzles sheets and book on my website, [puzzlesbynilo.com][4],
 [2]: https://puzzlesbynilo.com/product-category/number-search/ "Puzzles By Nilo - Number Searches"
 [3]: https://puzzlesbynilo.com/product-category/number-fill-in/ "Puzzles By Nilo - Number Fill In"
 [4]: https://puzzlesbynilo.com "Puzzles By Nilo"
+[5]: http://developer.wordnik.com/ "developer.wordnik.com"
