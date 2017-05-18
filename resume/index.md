@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Nilo Ballener - Resume"
+layout: page
+title:  "Resume"
 categories: programming
 permalink: /resume/
 ---
