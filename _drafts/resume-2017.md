@@ -8,29 +8,12 @@ permalink: /resume-2017/
 # Career Experience
 
 ## Computershare - *Software Developer*
-* Use Perl to Develop communications software using client XML/CSV data
-* Analyse and develop a data interface solution (XML) between our clients and us
-* Extract and convert SSRS reports into client readable reports
-* Investigate and action system failures across multiple clients
-* Provide job estimations
 
-### Major Projects
-* Create Communications for Large Superannuation Fund - *2 Years*
-  * Hurdles
-    * Client data upgrades at the same time as development
+During a 2 year period, performed requirements gathering and analysis, contribute to the solution design and development of a print and digital communications solution. The software developed utilises a mixture of XML and CSV data. I was part of a large team of business analysts and developers.
 
-* Create Communications for Large Medical Insurer - *2 Years*
-  * Hurdles
-    * Client data upgrades at the same time as development
-    * Adapt and manage ever changing requirements with difficult to change timeframes
+During a second 2 year period, developed a large software communications suite that utilises a mixture of XML, CSV, and flat file data (TXT). Pioneered several new business techniques which utilised web services and SSRS reports.
 
-* Internal Automated Testing Script
-  * Using a script written in perl, watch the working directory and run unit tests upon change.
-  * Benefits
-    * Development times reduced
-    * Unit tests are now documented within code
-    * Increased quality
-    * Becoming a standard across multiple states
+Introduced, developed and demonstrated an automated unit testing script that watches the current working directory and runs unit tests when it detects file saves. It has opened up a better programming standard to the larger team, with plans for national roll out.
 
 ## Robert Bosch - *Student Engineer*
 * Worked autonomously to gather requirements from stakeholders (managers, developers, testers) and develop a suite of reporting tools, using a mixture of perl and Excel VBA
