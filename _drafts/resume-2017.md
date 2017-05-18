@@ -16,19 +16,20 @@ During a second 2 year period, developed a large software communications suite t
 Introduced, developed and demonstrated an automated unit testing script that watches the current working directory and runs unit tests when it detects file saves. It has opened up a better programming standard to the larger team, with plans for national roll out.
 
 ## Robert Bosch - *Student Engineer*
-* Worked autonomously to gather requirements from stakeholders (managers, developers, testers) and develop a suite of reporting tools, using a mixture of perl and Excel VBA
-* Solutions overcame current system short comings and improved defect resolution efficiencies
 
-### Projects
-* Was tasked to consolidate data from multiple sources into a report that our manager would present to the developers
-  * I gathered requirements from internal stakeholders, being management and developers
-  * Design
+Autonomously gathered requirements and developed a suite of reporting tools using a mixture of perl and Excel VBA. I was required to learn what each system they used, extract and consolidate data from multiple sources, and produce reports with usable information and in a clear format.
 
-# Personal Experience
-* Utilise python and perl to create puzzles in PDF, JPG and PNG format
-* Software uses JOSN configurations to drive puzzle creation
-* Software creates puzzles such as [Word Searches][1], [Number Searches][2] and [Number Fill In][3]
-* My Puzzle homepage - [puzzlesbynilo.com][4]
+Turn around times for defect reporting were dramatically reduced from an average of 60 seconds per defects, to 5 seconds for all outstanding defects.
+
+# Personal Project
+
+## Puzzles By Nilo
+
+A series of puzzles books generated through software written in perl and python. The programs read in JSON configurations then produce PDFs, JPGs, and PNGs files.
+
+Output PDFs are sent to a publisher, which is then distributed through Amazon and other book sellers. There are current 3 puzzles types available online at the moment: [Word Searches][1], [Number Searches][2] and [Number Fill In puzzles][3]
+
+I also share free puzzles sheets and book on my website, [puzzlesbynilo.com][4], which uses Wordpress.
 
 ## Programming Languages
 * Perl - 5 star
