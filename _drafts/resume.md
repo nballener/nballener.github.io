@@ -54,8 +54,16 @@ Further enhancements will be to use the [Wordnik][5] API or alternative to extra
 * Jekyll - 2 star
 * Wordpress - 2 star
 
+# Contact Details
+Email: [nballener@gmail.com][6]
+
+LinkedIn: [Nilo Ballener][7]
+
+
 [1]: https://puzzlesbynilo.com/product-category/word-search/ "Puzzles By Nilo - Word Searches"
 [2]: https://puzzlesbynilo.com/product-category/number-search/ "Puzzles By Nilo - Number Searches"
 [3]: https://puzzlesbynilo.com/product-category/number-fill-in/ "Puzzles By Nilo - Number Fill In"
 [4]: https://puzzlesbynilo.com "Puzzles By Nilo"
 [5]: http://developer.wordnik.com/ "developer.wordnik.com"
+[6]: mailto:nballener@gmail.com
+[7]: https://www.linkedin.com/in/nilo-ballener-b5455854/ "LinkedIn - Nilo Ballener"
