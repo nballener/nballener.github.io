@@ -54,7 +54,8 @@ Further enhancements will be to use the [Wordnik][5] API or alternative to extra
 ## Technology
 * Excel - 4 star
 * Atom Text Editor - 4 star
-* Visual Studio TFS
+* Visual Studio TFS - 2 star
+* Git - 2 star
 * Cloud9 (c9.io) - 3 star
 * Jekyll - 2 star
 * Wordpress - 2 star
