@@ -4,6 +4,16 @@ title:  "Resume"
 categories: programming
 permalink: /resume/
 ---
+# Nilo Ballener
+
+# Technologies Proficiency
+* **Primary Programming Languages**: Perl, Python, PHP, Wordpress, HTML, Markdown
+* **Secondary Programming Languages**: Javascript, SQL
+* **Repositories**: Git, TFS
+* **Data Types**: XML, CSV, JSON, XLSX, Flat (space, tab, pipe delimited)
+* **Data Retrieval Techniques**: Data scraping from SSRS reports and proprietary file types
+* **MS Office**: Word, Excel, PowerPoint
+
 # **Career Experience**
 # Computershare - *Software Developer*
 * Gather requirements, analyse data and create a communications solution for a large superannuation fund and a major medical insurance company.
