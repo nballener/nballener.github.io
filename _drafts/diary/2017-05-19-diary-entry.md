@@ -5,6 +5,11 @@ date:   2017-05-19
 categories: programming, life, personal
 ---
 # Notes
+*intro*
+
+Currently I'm using Jekyll for my blog. It's easy to learn, uses Markdown, and it can be hosted on Github Pages.
+I haven't been using it for very long and I was surprised at the
+
 * 6:30 alarm
 * Checking Pinterest
 * Start diary entries
