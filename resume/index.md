@@ -14,6 +14,9 @@ permalink: /resume/
 * **Data Retrieval Techniques**: Data scraping from SSRS reports and proprietary file types
 * **MS Office**: Word, Excel, PowerPoint
 
+# **Education**
+* **Monash University**: Bachelor of Software Engineering - with Honours
+
 # **Career Experience**
 # Computershare - *Software Developer*
 * Gather requirements, analyse data and create a communications solution for a large superannuation fund and a major medical insurance company.
@@ -21,6 +24,15 @@ permalink: /resume/
 * Awarded the "Good Idea" Award 2017 for introducing and implementing an automated unit testing script
 * Unit testing script improves overall quality and development time by removing the system dependancy when testing functions
 * Investigate and correct exceptions produced by several different clients and system components
+
+### **Projects**
+* **Large Superannuation Fund**:
+  *
+  * *Role*:
+    * Analyse client requirements and translate
+
+* **Major Medical Insurance Provider**:
+
 
 # Robert Bosch - *Student Engineer*
 * Autonomously designed and developed a suite of reporting tools
