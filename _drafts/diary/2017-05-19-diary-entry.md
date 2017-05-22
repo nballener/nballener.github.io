@@ -6,6 +6,7 @@ categories: programming, life, personal
 ---
 # Notes
 *intro*
+Diary entry for May 19th, 2017. First entry in my personal log of happening in my 
 
 Currently I'm using Jekyll for my blog. It's easy to learn, uses Markdown, and it can be hosted on Github Pages.
 I haven't been using it for very long and I was surprised at the
