@@ -25,33 +25,28 @@ permalink: /resume/
 * Unit testing script improves overall quality and development time by removing the system dependancy when testing functions
 * Investigate and correct exceptions produced by several different clients and system components
 
-*Roles*:
+*Role Involvement*:
 * Investigate program and system failures, provide a recommended plan of action, and perform corrective measures
 * Provide detailed estimates of upcoming pieces of work
 * Lias with multiple internal stakeholders to design client specific solutions
 
 ### **Projects**
 * **Large Superannuation Fund**:
-  * [describe the project]
-  * *Role*:
-    * Provide guidance to our client in proper usage of our product
-    * Provide assistance with analysing client requirements
-    * Develop their large scale custom communications solutions which utilised our composition product
-    * Create bespoke automated client and internal stakeholder reporting functionality
-    * Handle system failures and perform corrective measures accordingly
+  * Provided guidance to our client in proper usage of our product
+  * Provided assistance with analysing client requirements
+  * Developed a large scale custom communications solutions which utilised our composition product
+  * Created bespoke automated client and internal stakeholder reporting functionality
+  * Handled system failures and perform corrective measures accordingly
 
 * **Major Medical Insurance Provider**:
-  * [describe the project]
-  * *Roles*:
-    * Develop a major custom communications solution with print, email, and sms capabilities
-    * Achieved through the use of internal and external web services
-    * Pioneered a new business function where by our contract provides an extract artefact that their SAP system ingests and processes
-    * Pioneered a new technique where electronic communications are smoothed over several hours to prevent overloading their call centres
-    * Analyse new client requirements, design a custom solution and develop the upgrade to their existing solution
+  * Develop a major custom communications solution with print, email, and sms capabilities
+  * Achieved through the use of internal and external web services
+  * Pioneered a new business function which creates an artefact that the client's SAP system ingests and processes
+  * Pioneered a new technique where electronic communications are smoothed over several hours to prevent call centre overload
+  * Analyse new client requirements, design a custom solution and develop the upgrade to their existing solution
 
 * **CBST - Can't Be Stuffed Testing**:
-  * CBST is a program Nilo(I) wrote to ensure unit testing is performed during development and run automatically when a change was made to the program.
-
+  * CBST is a program I wrote to ensure unit testing is performed during development and run automatically when a change was made to the program.
 
 # Robert Bosch - *Student Engineer*
 * Autonomously designed and developed a suite of reporting tools
