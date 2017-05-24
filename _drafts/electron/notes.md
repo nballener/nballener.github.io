@@ -24,5 +24,6 @@
   * read the csv provided by the site
   * store user's preference location
   * button to change location
+* Weather App using React
 
 [1]: https://electron.atom.io/docs/tutorial/quick-start/ "Electron - Quickstart"
