@@ -49,9 +49,13 @@ permalink: /resume/
   * CBST is a program I wrote to ensure unit testing is performed during development and run automatically when a change was made to the program.
 
 # Robert Bosch - *Student Engineer*
+Robert Bosch - Chassis Systems Control Division required a suite of reporting tools to improve bug reporting efficiency. Problem was multiple systems with different output formats, with very delayed response times. Solution designed was two reporting scripts that consolidated the data into an Excel Spreadsheet. Outcome was a reduction in reporting times from 60 sec to 5 sec.
+
 * Autonomously designed and developed a suite of reporting tools
+* Performed interviews with internal stakeholders and end users
+* Conduct demonstrations of reporting tools
 * Tools produced a decrease in bug reporting time by 92%
-* Self-taught the debugging systems the developers used, became the "go to" guy for questions about the systems
+* Self-taught the debugging systems the developers used and became their systems' subject matter expert
 * Self-taught Perl and Excel VBA
 
 # **Personal Projects**
