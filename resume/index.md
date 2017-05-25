@@ -7,18 +7,21 @@ permalink: /resume/
 # Nilo Ballener
 
 # Technologies Proficiency
-* **Primary Programming Languages**: Perl, Python, PHP, Wordpress, HTML, Markdown
-* **Secondary Programming Languages**: Javascript, SQL
-* **Repositories**: Git, TFS
-* **Data Types**: XML, CSV, JSON, XLSX, Flat (space, tab, pipe delimited)
-* **Data Retrieval Techniques**: Data scraping from SSRS reports and proprietary file types
-* **MS Office**: Word, Excel, PowerPoint
+* **Primary Programming Languages:** Perl, Python, PHP, Wordpress, HTML, Markdown
+* **Secondary Programming Languages:** Javascript, SQL
+* **Repositories:** Git, TFS
+* **Data Types:** XML, CSV, JSON, XLSX, Flat (space, tab, pipe delimited)
+* **Data Retrieval Techniques:** Data scraping from SSRS reports and proprietary file types
+* **MS Office:** Word, Excel, PowerPoint
 
 # **Education**
-* **Monash University**: Bachelor of Software Engineering - with Honours
+* **Monash University:** Bachelor of Software Engineering - with Honours
+* **Pluralsight:** Various courses
+* **Lynda:** Various courses
 
 # **Career Experience**
 # Computershare - *Software Developer*
+* **Computershare - Communications Technology Group:** Focuses on providing innovative inbound and outbound communications solutions for their clients. 
 * Gather requirements, analyse data and create a communications solution for a large superannuation fund and a major medical insurance company.
 * Create reporting Perl scripts that consolidate CSV, Excel and flat file formatted data to produce client specific reports
 * Awarded the "Good Idea" Award 2017 for introducing and implementing an automated unit testing script
@@ -29,24 +32,31 @@ permalink: /resume/
 * Investigate program and system failures, provide a recommended plan of action, and perform corrective measures
 * Provide detailed estimates of upcoming pieces of work
 * Lias with multiple internal stakeholders to design client specific solutions
+* Create verbose scripts to process client data and produce print, email and sms outputs.
 
 ### **Projects**
 * **Large Superannuation Fund**:
-  * Provided guidance to our client in proper usage of our product
-  * Provided assistance with analysing client requirements
-  * Developed a large scale custom communications solutions which utilised our composition product
-  * Created bespoke automated client and internal stakeholder reporting functionality
-  * Handled system failures and perform corrective measures accordingly
+  * Provide guidance to our client in proper usage of our product
+  * Provide assistance with analysing client requirements
+  * Develop a large scale custom communications solutions which utilised our composition product
+  * Create bespoke automated client and internal stakeholder reporting functionality
+  * Handle system failures and perform corrective measures accordingly
+  * Provide support during client warranty period
 
 * **Major Medical Insurance Provider**:
-  * Develop a major custom communications solution with print, email, and sms capabilities
+  * Lead developer on a major custom communications solution with print, email, and sms capabilities
   * Achieved through the use of internal and external web services
-  * Pioneered a new business function which creates an artefact that the client's SAP system ingests and processes
-  * Pioneered a new technique where electronic communications are smoothed over several hours to prevent call centre overload
+  * Pioneer a new business function which creates an artefact that the client's SAP system ingests and processes
+  * Pioneer a new technique where electronic communications are smoothed over several hours to prevent call centre overload
   * Analyse new client requirements, design a custom solution and develop the upgrade to their existing solution
+  * Create verbose scripts to extract data from previous processing runs and provide statistical reports to key stakeholders
+  * Provide ongoing system support for the client
 
 * **CBST - Can't Be Stuffed Testing**:
-  * CBST is a program I wrote to ensure unit testing is performed during development and run automatically when a change was made to the program.
+  * A program written to ensure unit testing is performed during development and run automatically when a change was made to the program.
+  * Conducted group meetings with team leaders, analysts and developers to demonstrate keep benefits of using this tool
+  * Benefits are quicker development times, testing artefacts are created, easier to find breaking changes and quality increase
+  * Becoming a standard development tool within the business
 
 # Robert Bosch - *Student Engineer*
 Robert Bosch - Chassis Systems Control Division required a suite of reporting tools to improve bug reporting efficiency. Problem was multiple systems with different output formats, with very delayed response times. Solution designed was two reporting scripts that consolidated the data into an Excel Spreadsheet. Outcome was a reduction in reporting times from 60 sec to 5 sec.
