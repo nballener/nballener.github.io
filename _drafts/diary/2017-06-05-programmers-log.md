@@ -65,11 +65,16 @@ These questions pop up in my mind:
 * Though a program does runs from start to finish, but is poorly written, shouldn't
 you fix it?
 * If the program runs extremely inefficiently, shouldn't you fix it?
+* Does upgrading a program mean you are fixing it?
 
 I feel like this mentality is at the heart of a lot of problems. Only acting
 when the failure occurs, instead of acting when a potential problem is spotted.
 
-I'm going to leave you with that. Something to ponder about.
+# Conclusion
+
+To sum up the day: I've learnt that Ruby Prawn does pdf generation way better
+than Perl or Python (highly subjective), I wish I didn't have to go back to work today
+and I like asking the hard question
 
 Until next time.
 
