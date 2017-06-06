@@ -2,7 +2,7 @@
 layout: post
 title:  "Programmer's Log - June 5th, 2017"
 date:   2017-06-05
-categories: programming, life, personal
+categories: log programming life
 ---
 {% include affiliate-disclaimer.md %}
 
