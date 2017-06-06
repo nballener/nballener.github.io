@@ -4,61 +4,71 @@ title:  "Resume"
 categories: programming
 permalink: /resume/
 ---
-# Career Experience
+# Nilo Ballener
 
-## Computershare - *Software Developer*
+# Technologies Proficiency
+* **Primary Programming Languages:** Perl, Python, PHP, Wordpress, HTML, Markdown, Ruby
+* **Secondary Programming Languages:** Javascript, SQL
+* **Repositories:** Git, TFS
+* **Data Types:** XML, CSV, JSON, XLSX, Flat (space, tab, pipe delimited)
+* **Data Retrieval Techniques:** Data scraping from SSRS reports and proprietary file types
+* **MS Office:** Word, Excel, PowerPoint
 
-During a 2 year period, performed requirements gathering and analysis, contribute to the solution design and development of a print and digital communications solution. The software developed utilises a mixture of XML and CSV data. As a member of large team of business analysts and developers, we pioneered the implementation of a new communications system platform.
+# **Career Experience**
+# Computershare - *Software Developer*
+**Computershare - Communications Technology Group** focuses on providing inbound and outbound communications solutions for their clients, in the form of printed letters, emails, sms and a cloud document storage/retrieval capability.
 
-During a second 2 year period, developed a large software communications suite that utilises a mixture of XML, CSV, and flat file data (TXT). Pioneered several new business techniques which utilised web services and SSRS reports.
+*Role Involvement*:
+* Gather requirements, analyse data and create a communications solution for a large superannuation fund and a major medical insurance company.
+* Create reporting Perl scripts that consolidate CSV, Excel and flat file formatted data to produce client specific reports
+* Awarded the "Good Idea" Award 2017 for introducing and implementing an automated unit testing script
+* Investigate and correct exceptions produced by several different clients and system components
+* Investigate program and system failures, provide a recommended plan of action, and perform corrective measures
+* Provide detailed estimates of upcoming pieces of work
+* Lias with multiple internal stakeholders to design client specific solutions
+* Create verbose scripts to process client data and produce print, email and sms outputs.
 
-Introduced, developed and demonstrated an automated unit testing script that watches the current working directory and runs unit tests when it detects file saves. It has opened up a better programming standard to the larger team, with plans for national roll out. I received a Great Ideas award.
+### **Projects**
+* **Large Superannuation Fund**:
+  * Provide guidance to our client in proper usage of our product
+  * Provide assistance with analysing client requirements
+  * Develop a large scale custom communications solutions which utilised our composition product
+  * Create bespoke automated client and internal stakeholder reporting functionality
+  * Handle system failures and perform corrective measures accordingly
+  * Provide support during client warranty period
 
-## Robert Bosch - *Student Engineer*
+* **Major Medical Insurance Provider**:
+  * Lead developer on a major custom communications solution with print, email, and sms capabilities
+  * Achieved through the use of internal and external web services
+  * Pioneer a new business function which creates an artefact that the client's SAP system ingests and processes
+  * Pioneer a new technique where electronic communications are smoothed over several hours to prevent call centre overload
+  * Analyse new client requirements, design a custom solution and develop the upgrade to their existing solution
+  * Create verbose scripts to extract data from previous processing runs and provide statistical reports to key stakeholders
+  * Provide ongoing system support for the client
 
-Autonomously gathered requirements and developed a suite of reporting tools using a mixture of perl and Excel VBA. I was required to learn what each system they used, extract and consolidate data from multiple sources, and produce reports with usable information and in a clear format.
+* **CBST - Can't Be Stuffed Testing**:
+  * A program written to ensure unit testing is performed during development and run automatically when a change was made to the program.
+  * Conducted group meetings with team leaders, analysts and developers to demonstrate keep benefits of using this tool
+  * Benefits are quicker development times, testing artefacts are created, easier to find breaking changes and quality increase
+  * Becoming a standard development tool within the business
 
-Turn around times for defect reporting were dramatically reduced from an average of 60 seconds per defects, to 5 seconds for all outstanding defects.
+# Robert Bosch - *Student Engineer*
+**Robert Bosch - Chassis Systems Control Division** required a suite of reporting tools to improve bug reporting efficiency. Problem was multiple systems with different output formats, with very delayed response times. Solution designed was two reporting scripts that consolidated the data into an Excel Spreadsheet. Outcome was a reduction in reporting times from 60 sec to 5 sec.
 
-# Personal Project
+* Autonomously designed and developed a suite of reporting tools
+* Performed interviews with internal stakeholders and end users
+* Conduct demonstrations of reporting tools
+* Tools produced a decrease in bug reporting time by 92%
+* Became their subject matter expert on the systems they utilised
 
-## Puzzles By Nilo
+# **Personal Projects**
+# Puzzles By Nilo
+Puzzles By Nilo is my website, [https://puzzlesbynilo.com][4] where I post puzzles that I've made through my puzzle generating software. Written in Perl, Python and Ruby, the software creates JSON puzzle files that are processed into PDF, JPG and PNG formatted images. Hard copies are sold on [Amazon][8].
 
-A series of puzzles books generated through software written in perl and python. The programs read in JSON configurations then produce PDFs, JPGs, and PNGs files.
-
-Output PDFs are sent to a publisher, which is then distributed through Amazon and other book sellers. There are current 3 puzzles types available online at the moment: [Word Searches][1], [Number Searches][2] and [Number Fill In puzzles][3]
-
-I also share free puzzles sheets and book on my website, [puzzlesbynilo.com][4], which uses Wordpress.
-
-Further enhancements will be to use the [Wordnik][5] API or alternative to extract related words and meanings to generate crossword puzzles.
-
-## Programming Languages
-* Perl - 5 star
-* Python - 3 star
-* Javascript - 2 star
-* Markdown - 3 star
-* HTML - 3 star
-* PHP - 2 star
-* Java - 1 star
-
-## Data Types
-* CSV - 5 star
-* XML - 4 star
-* JSON - 3 star
-
-## Technology
-* Excel - 4 star
-* Atom Text Editor - 4 star
-* Visual Studio TFS
-* Cloud9 (c9.io) - 3 star
-* Jekyll - 2 star
-* Wordpress - 2 star
-
-# Contact Details
-Email: [nballener@gmail.com][6]
-
-LinkedIn: [Nilo Ballener][7]
-
+# **Education**
+* **Monash University:** Bachelor of Software Engineering - with Honours
+* **Pluralsight:** Various courses
+* **Lynda:** Various courses
 
 [1]: https://puzzlesbynilo.com/product-category/word-search/ "Puzzles By Nilo - Word Searches"
 [2]: https://puzzlesbynilo.com/product-category/number-search/ "Puzzles By Nilo - Number Searches"
@@ -67,3 +77,4 @@ LinkedIn: [Nilo Ballener][7]
 [5]: http://developer.wordnik.com/ "developer.wordnik.com"
 [6]: mailto:nballener@gmail.com
 [7]: https://www.linkedin.com/in/nilo-ballener-b5455854/ "LinkedIn - Nilo Ballener"
+[8]: https://amazon.com/author/niloballener "Amazon - Nilo Ballener"
