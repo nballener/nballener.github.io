@@ -21,7 +21,7 @@ and it gives me the chance to learn a different language.
 # Ruby: Prawn
 
 I continued learning during my lunch break, where I got a little more familiar
-with Prawn Table. Because I'm currently create puzzles for my website,
+with Prawn Table. Because I'm currently creating puzzles for my website,
 [puzzlesbynilo.com][2], and also selling hard copies on [Amazon][3] (My Affiliate Link),
 making tables in a PDF is very important. Pretty much most puzzles are set out
 in a grid of some sort.
@@ -29,7 +29,7 @@ in a grid of some sort.
 Currently, I am using my primary language, Perl, and my secondary, Python, to
 generate the puzzles and to output pdfs for upload to my website and Amazon. But,
 what I've found is that it is very clunky and it isn't easy to configure. I also
-trying a Python solution, but I found that even worse.
+tried a Python solution, but I found that even worse.
 
 Anyway, what I learnt in my lunch hour was how to generate a basic 3x3 table,
 with center text alignment within each cell and move it around in it's own
@@ -47,7 +47,7 @@ this can only be used on strings, as I found out while trying to make integers s
 # Work
 
 While at work, I typically use Perl to make company contracts. Though I'm not too
-sure why it was initial chosen to begin with, I think it would have been due
+sure why it was initially chosen to begin with, I think it would have been due
 to it's ability to manipulate strings and regular expression capabilities. I
 think it's a pretty powerful language, although, I think there are other languages
 that could be used instead. Topic for another day.
@@ -57,12 +57,12 @@ running. Which I did. Loads of emails to sort through, status and handover meeti
 during the day and a full day of work on top of all that. Typical Monday work day.
 
 Going through my duties during the day, I began to question the saying: *if it ain't
-broke, don't fix it*. Now I suppose it doesn't seem like there's nothing wrong
+broke, don't fix it*. Now I suppose it seems like there's nothing wrong
 with the saying, but the more I think about it, the more I think that it's
 deeply flawed.
 
 These questions pop up in my mind:
-* Though a program does runs from start to finish, but is poorly written, shouldn't
+* Though a program does run from start to finish, but is poorly written, shouldn't
 you fix it?
 * If the program runs extremely inefficiently, shouldn't you fix it?
 * Does upgrading a program mean you are fixing it?
