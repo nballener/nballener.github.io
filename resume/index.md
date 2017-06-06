@@ -7,28 +7,22 @@ permalink: /resume/
 # Nilo Ballener
 
 # Technologies Proficiency
-* **Primary Programming Languages:** Perl, Python, PHP, Wordpress, HTML, Markdown
+* **Primary Programming Languages:** Perl, Python, PHP, Wordpress, HTML, Markdown, Ruby
 * **Secondary Programming Languages:** Javascript, SQL
 * **Repositories:** Git, TFS
 * **Data Types:** XML, CSV, JSON, XLSX, Flat (space, tab, pipe delimited)
 * **Data Retrieval Techniques:** Data scraping from SSRS reports and proprietary file types
 * **MS Office:** Word, Excel, PowerPoint
 
-# **Education**
-* **Monash University:** Bachelor of Software Engineering - with Honours
-* **Pluralsight:** Various courses
-* **Lynda:** Various courses
-
 # **Career Experience**
 # Computershare - *Software Developer*
-* **Computershare - Communications Technology Group:** Focuses on providing innovative inbound and outbound communications solutions for their clients. 
+**Computershare - Communications Technology Group** focuses on providing inbound and outbound communications solutions for their clients, in the form of printed letters, emails, sms and a cloud document storage/retrieval capability.
+
+*Role Involvement*:
 * Gather requirements, analyse data and create a communications solution for a large superannuation fund and a major medical insurance company.
 * Create reporting Perl scripts that consolidate CSV, Excel and flat file formatted data to produce client specific reports
 * Awarded the "Good Idea" Award 2017 for introducing and implementing an automated unit testing script
-* Unit testing script improves overall quality and development time by removing the system dependancy when testing functions
 * Investigate and correct exceptions produced by several different clients and system components
-
-*Role Involvement*:
 * Investigate program and system failures, provide a recommended plan of action, and perform corrective measures
 * Provide detailed estimates of upcoming pieces of work
 * Lias with multiple internal stakeholders to design client specific solutions
@@ -59,18 +53,22 @@ permalink: /resume/
   * Becoming a standard development tool within the business
 
 # Robert Bosch - *Student Engineer*
-Robert Bosch - Chassis Systems Control Division required a suite of reporting tools to improve bug reporting efficiency. Problem was multiple systems with different output formats, with very delayed response times. Solution designed was two reporting scripts that consolidated the data into an Excel Spreadsheet. Outcome was a reduction in reporting times from 60 sec to 5 sec.
+**Robert Bosch - Chassis Systems Control Division** required a suite of reporting tools to improve bug reporting efficiency. Problem was multiple systems with different output formats, with very delayed response times. Solution designed was two reporting scripts that consolidated the data into an Excel Spreadsheet. Outcome was a reduction in reporting times from 60 sec to 5 sec.
 
 * Autonomously designed and developed a suite of reporting tools
 * Performed interviews with internal stakeholders and end users
 * Conduct demonstrations of reporting tools
 * Tools produced a decrease in bug reporting time by 92%
-* Self-taught the debugging systems the developers used and became their systems' subject matter expert
-* Self-taught Perl and Excel VBA
+* Became their subject matter expert on the systems they utilised
 
 # **Personal Projects**
 # Puzzles By Nilo
-* Software generated puzzles books which are sold on [Amazon][8] and my website, [https://puzzlesbynilo.com][4]
+Puzzles By Nilo is my website, [https://puzzlesbynilo.com][4] where I post puzzles that I've made through my puzzle generating software. Written in Perl, Python and Ruby, the software creates JSON puzzle files that are processed into PDF, JPG and PNG formatted images. Hard copies are sold on [Amazon][8].
+
+# **Education**
+* **Monash University:** Bachelor of Software Engineering - with Honours
+* **Pluralsight:** Various courses
+* **Lynda:** Various courses
 
 [1]: https://puzzlesbynilo.com/product-category/word-search/ "Puzzles By Nilo - Word Searches"
 [2]: https://puzzlesbynilo.com/product-category/number-search/ "Puzzles By Nilo - Number Searches"
