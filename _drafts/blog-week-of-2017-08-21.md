@@ -55,3 +55,25 @@ All opinions are my own and do not reflect the company I
 # Wednesday
 # Thursday
 # Friday
+
+# Thoughts
+
+Looking back on this week, I've noticed somethings
+very important to me. First thing, time. 
+
+I was having a discussion with my partner and we were 
+talking about the week that's just passed. We
+talked about how things were changing for the
+better and that this extra money we were getting
+will be a huge boost for our various plans.
+
+One thing I also mentioned, was that time went a lot
+slower during the week compared to when I was working
+at my previous place of employment. There was mention of
+workplace stresses and overall lack of fulfilment. It
+could also be the fact that everything I'm experiencing
+now is all fresh.
+
+
+
+# Summary
