@@ -33,6 +33,11 @@ It's been more that fun
 - had to use a scarf today, over my nose and mouth
   because someone with smelly cigarette smoke clothes
   decided to sit next to me
+- worked on PL SQL
+  - this ended up being a challenge as I haven't had
+    experience is this language before
+  - it was fine until I had to look into locks and how
+    I had to fiddle with them
 
 # Wednesday 
 

@@ -53,6 +53,16 @@ All opinions are my own and do not reflect the company I
   peering over at somebody else's device screen.
 
 # Wednesday
+
+- Got to the station at 5.15. 8 minutes early
+- It's so cold
+- Got some coding done on the train
+- Still dark outside
+- Confirmed that the best wa for me to learn is to be
+  thrown into the deep end
+- Updated my vim to use Vundle
+- Got second sale on website!
+
 # Thursday
 # Friday
 
@@ -73,7 +83,3 @@ at my previous place of employment. There was mention of
 workplace stresses and overall lack of fulfilment. It
 could also be the fact that everything I'm experiencing
 now is all fresh.
-
-
-
-# Summary
