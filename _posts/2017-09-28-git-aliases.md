@@ -25,3 +25,5 @@ Git alias
 ```
 git alias == git config --global -l
 ```
+
+Always will be adding to this page as a central point for my own reference :)
