@@ -20,5 +20,9 @@ git st == git status
 git co == git checkout
 git cm == git commit
 git df == git diff
+```
+
+Git alias
+```
 git alias == git config --global -l
 ```
