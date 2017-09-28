@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Git Aliases"
-date:   2017-08-21 00:00:00 +0000
 categories: git
 ---
 
