@@ -24,9 +24,17 @@ using UnityEngine;
 
 public class Draggable : MonoBehaviour {
 	private void OnMouseDrag() {
+		// Converts the touch or click position into a position in the world
 		Vector3 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+		// Zeros the z-axis as I am working on a 2D game
 		pos.z = 0;
+
+		// Move the GameObject to that position
 		gameObject.transform.position = pos;
 	}
 }
 {% endhighlight %}
+
+Hope this is helpful
+Nilo
